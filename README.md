@@ -22,4 +22,4 @@ UI:
 -    Users can view others' avatars, names, and messages in a styled chat window, with color schemes and message bubbles for a clean, user-friendly interface​(index)​(app).
 
 
--    ![Python Chat App](https://github.com/user-attachments/assets/4ed57c38-3308-44d3-bfbc-bce37899417e)
+      ![Python Chat App](https://github.com/user-attachments/assets/4ed57c38-3308-44d3-bfbc-bce37899417e)
